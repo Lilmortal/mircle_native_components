@@ -1,0 +1,17 @@
+{
+  "name": "@jacktan/mircle_native_components",
+  "version": "1.0.0",
+  "description": "Mircle native components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jack Tan",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-native": "^0.48.4",
+    "react-native-datepicker": "^1.6.0",
+    "react-native-vector-icons": "^4.4.0"
+  }
+}
