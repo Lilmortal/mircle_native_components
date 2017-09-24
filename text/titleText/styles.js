@@ -1,11 +1,9 @@
 import { StyleSheet } from "react-native";
 
-//import fonts from "../../../config/fonts";
-
 const styles = StyleSheet.create({
   logoText: {
-    fontSize: 40
-    //fontFamily: fonts.loginTitleFont
+    fontSize: 40,
+    fontFamily: "Rye-Regular"
   },
   titleText: {
     fontSize: 35
