@@ -13,5 +13,8 @@
     "react-native": "^0.46.2",
     "react-native-datepicker": "^1.6.0",
     "react-native-vector-icons": "^4.4.0"
+  },
+  "rnpm": {
+    "assets": ["./text/fonts"]
   }
 }
