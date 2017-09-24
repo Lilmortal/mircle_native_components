@@ -1,6 +1,6 @@
 {
   "name": "@jacktan/mircle_native_components",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Mircle native components",
   "main": "index.js",
   "scripts": {
